@@ -1,4 +1,4 @@
-package com.multicampus.htmlunit;
+package com.multicampus.cleancode.htmlunit;
 
 public class HtmlUnitRefactored {
 	public static String renderPageWithSetupsAndTeardowns(PageData pageData, boolean isSuite) throws Exception {

@@ -1,4 +1,4 @@
-package com.multicampus.htmlunit;
+package com.multicampus.cleancode.htmlunit;
 
 public class PageCrawler {
   public void setDeadEndStrategy(VirtualEnabledPageCrawler virtualEnabledPageCrawler) {

@@ -1,4 +1,4 @@
-package com.multicampus.htmlunit;
+package com.multicampus.cleancode.htmlunit;
 
 public class HtmlUnit {
 	public static String testableHtml(PageData pageData, boolean includeSuiteSetup) throws Exception {
