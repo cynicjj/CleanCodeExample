@@ -8,4 +8,8 @@ public class GitTest {
 	public void test() {
 		
 	}
+	
+	public void test2() {
+		
+	}
 }
