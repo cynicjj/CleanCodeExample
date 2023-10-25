@@ -4,4 +4,8 @@ public class GitTest {
 	public GitTest() {
 		
 	}
+	
+	public void test() {
+		
+	}
 }
