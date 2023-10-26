@@ -1,5 +1,12 @@
 package com.multicampus.cleancode.htmlunit;
 
+import com.multicampus.cleancode.htmlunit.compile.PageCrawlerImpl;
+import com.multicampus.cleancode.htmlunit.compile.PageData;
+import com.multicampus.cleancode.htmlunit.compile.PathParser;
+import com.multicampus.cleancode.htmlunit.compile.SuiteResponder;
+import com.multicampus.cleancode.htmlunit.compile.WikiPage;
+import com.multicampus.cleancode.htmlunit.compile.WikiPagePath;
+
 public class HtmlUnit {
 	public static String testableHtml(PageData pageData, boolean includeSuiteSetup) throws Exception {
 		WikiPage wikiPage = pageData.getWikiPage();

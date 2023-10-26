@@ -1,5 +1,8 @@
 package com.multicampus.cleancode.htmlunit;
 
+import com.multicampus.cleancode.htmlunit.compile.PageData;
+import com.multicampus.cleancode.htmlunit.compile.WikiPage;
+
 public class HtmlUnitRefactored {
 	public static String renderPageWithSetupsAndTeardowns(PageData pageData, boolean isSuite) throws Exception {
 		boolean isTestPage = pageData.hasAttribute("Test");

@@ -1,4 +1,4 @@
-package com.multicampus.cleancode.htmlunit;
+package com.multicampus.cleancode.htmlunit.compile;
 
 public class PageCrawlerImpl {
   public static WikiPage getInheritedPage(Object suite_setup_name, WikiPage wikiPage) {

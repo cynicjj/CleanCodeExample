@@ -1,4 +1,4 @@
-package com.multicampus.cleancode.htmlunit;
+package com.multicampus.cleancode.htmlunit.compile;
 
 public class SuiteResponder {
   public static String SUITE_SETUP_NAME;

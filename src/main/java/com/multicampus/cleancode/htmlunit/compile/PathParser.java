@@ -1,4 +1,4 @@
-package com.multicampus.cleancode.htmlunit;
+package com.multicampus.cleancode.htmlunit.compile;
 
 public class PathParser {
   public static WikiPagePath parse(String resource) {
